@@ -1,0 +1,22 @@
+{
+  "name": "02-enviarmail-js",
+  "version": "1.0.0",
+  "description": "Formulario de envio de emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tackless/02-EnviarEmail-JS.git"
+  },
+  "keywords": [
+    "JavaScript"
+  ],
+  "author": "Donovan Eliosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tackless/02-EnviarEmail-JS/issues"
+  },
+  "homepage": "https://github.com/Tackless/02-EnviarEmail-JS#readme"
+}
